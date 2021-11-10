@@ -2,9 +2,7 @@ const app = new Vue({
   el: '#app',
 
   data: {
-    saluto: 'Hello World!'
+    saluto: 'Hello World!',
+    image: 'img/sunflower.jpg'
   }
-
-
-
 });
